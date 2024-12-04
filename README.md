@@ -31,5 +31,7 @@ Send vulnerability reports to security@bellande-architecture-mechanism-research-
 ## Security Contact
 
 Email: security@bellande-architecture-mechanism-research-innovation-center.org
+
 Organization Email: ronaldsonbellande@bellande-architecture-mechanism-research-innovation-center.org
+
 Discord: Join our [Discord Community](https://discord.gg/fdkGVKp7wx) for secure communications
